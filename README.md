@@ -51,6 +51,8 @@ es.codemotion.madrid.library.borrow
 es.codemotion.madrid.library.catalog
 es.codemotion.madrid.library.rating
 ```
+...
+
 
 *Hint:*
 Use refactoring techniques like _composing methods_ and _moving features between objects_. Don't be afraid of _organizing data_.
